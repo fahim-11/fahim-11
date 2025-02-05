@@ -26,11 +26,6 @@ I'm a passionate MERN stack developer dedicated to designing and building scalab
 
 ---
 
-## 📊 GitHub Stats
-
-![Adem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ademoumer&show_icons=true&theme=dark)
-
----
 
 ## 📧 How to Reach Me
 
