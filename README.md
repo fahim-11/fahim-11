@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Adem Oumer! 👋
 
-<!--
-**fahim-11/fahim-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN stack developer dedicated to designing and building scalable, dynamic web applications while delivering high-quality user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔄 About Me
+
+- 🔭 I’m currently working on scalable full-stack applications at Alyah Software Development PLC.
+- 🌱 I’m currently learning advanced cloud technologies and performance optimization for full-stack applications.
+- 👯 I’m looking to collaborate on open-source projects involving web development and database management.
+- 🤔 I’m looking for help with integrating cloud-native solutions.
+- 💬 Ask me about MERN stack development and database optimization.
+- 📫 How to reach me: [fahimoumer@gmail.com](mailto:fahimoumer@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing football and continuously exploring emerging technologies.
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages:** JavaScript, Python, Node.js
+- **Frameworks:** React, Express.js, Laravel
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, Docker
+
+---
+
+## 📊 GitHub Stats
+
+![Adem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ademoumer&show_icons=true&theme=dark)
+
+---
+
+## 📧 How to Reach Me
+
+- **Email:** [fahimoumer@gmail.com](mailto:fahimoumer@gmail.com)
+- **LinkedIn:** [Adem Oumer](https://www.linkedin.com/in/fahimoumer)
+
+```
+
+
