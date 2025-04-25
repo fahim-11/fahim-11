@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Adem Oumer! 👋</h1>
+<h1 align="center"> Hi there, I'm Fahim Oumer! 👋</h1>
 <h3 align="center">I'm a passionate MERN stack developer dedicated to designing and building scalable, dynamic web applications while delivering high-quality user experiences.</h3>
 
 - 🔭 I’m currently working on **scalable full-stack applications at Alyah Software Development PLC. -**
